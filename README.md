@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <!--
 **vipersniper0501/vipersniper0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+Some interesting things about myself:
 
 - 🔭 I’m currently working on my Windows and Linux Hardening Tool called CP_Scripts2
 - 🌱 I’m currently learning Python, C++, Javascript/HTML/CSS
