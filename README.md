@@ -7,7 +7,6 @@ Some interesting things about myself:
 
 - 🔭 I’m currently working on my Windows and Linux Hardening Tool called CP_Scripts2
 - 🌱 I’m currently learning Python, C++, Javascript/HTML/CSS
-- 👯 I’m looking to collaborate on GWSL
 - 🤔 I’m looking for help with my CP_Scripts2
-- ⚡ Fun fact: I got my Comptia A+ Certification at 16
+- ⚡ Fun fact: I got my Comptia A+ Certification at age 16
 
