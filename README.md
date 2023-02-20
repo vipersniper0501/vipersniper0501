@@ -6,7 +6,7 @@
 Some interesting things about myself:
 
 - I’m currently working on updating and upgrading my website: https://matrix0501.com
-- I’m currently learning Java
+- I’m currently learning Rust
 - Fun fact: I got my Comptia A+ Certification at age 16
-- Languages I do know: Python, HTML/CSS/JavaScript, Powershell, Bash, C/C++
+- Languages I do know: Python, HTML/CSS/JavaScript, Powershell, Bash, C/C++, and most recently Rust! (rust is awesome)
 
